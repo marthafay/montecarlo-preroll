@@ -22,9 +22,8 @@ I’d be happy if you enjoy my work: https://buymeacoffee.com/marthafay
 Monte Carlo Preroll
 
 Author: Elias, Martha
-Version: v1.0 (October 2025)
-DOI: 10.5281/zenodo.17443778
-marthaelias [at] protonmail [dot] com
+Version: v1.0 (October 2025€
+I want to get hired! Contact marthaelias [at] protonmail [dot] com
 """
 
 import subprocess
